@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NahidulAhsan22&label=Profile views&color=0e75b6&style=flat" alt="NahidulAhsan22" /> </p>
 
-- 🔭 I'm currently working on **a Private company named TechnyX**
+- 🔭 I'm currently working on **a company named TechnyX as a Hardware Design Engineer**
 
 - 🌱 I'm currently learning **High Speed Design**
 
